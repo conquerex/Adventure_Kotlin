@@ -1,10 +1,10 @@
 
 fun main(args: Array<String>) {
-    showKotiln()
+    /*showKotiln()
     testBasicTypes()
     iterater10()
     showForEach()
-    showForEach2()
+    showForEach2()*/
 }
 
 fun showKotiln(): Unit {
