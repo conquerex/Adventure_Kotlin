@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cf3cffe-cc4a-4440-b194-38140a353aac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TestProp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestData.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/Address.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/META-INF/Adventure_Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/META-INF/Adventure_Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestPropKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestPropKt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestProp.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestProp.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestProp.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestData.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestData.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -74,6 +85,7 @@
         <option value="$PROJECT_DIR$/src/Test.kt" />
         <option value="$PROJECT_DIR$/src/TestClass.kt" />
         <option value="$PROJECT_DIR$/src/TestProp.kt" />
+        <option value="$PROJECT_DIR$/src/TestData.kt" />
       </list>
     </option>
   </component>
@@ -124,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.TestPropKt">
+  <component name="RunManager" selected="Kotlin.TestDataKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -152,6 +164,16 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="TestClassKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="TestDataKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Adventure_Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TestDataKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -200,9 +222,11 @@
       <item itemvalue="Kotlin.TestKt" />
       <item itemvalue="Kotlin.TestClassKt" />
       <item itemvalue="Kotlin.TestPropKt" />
+      <item itemvalue="Kotlin.TestDataKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestDataKt" />
         <item itemvalue="Kotlin.TestPropKt" />
         <item itemvalue="Kotlin.TestClassKt" />
         <item itemvalue="Kotlin.TestKt" />
@@ -289,8 +313,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestProp.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestData.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
