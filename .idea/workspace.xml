@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cf3cffe-cc4a-4440-b194-38140a353aac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Test2IfElse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test2VarVal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test2Class.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/CounterManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/CounterManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/META-INF/Adventure_Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/META-INF/Adventure_Kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/MyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestObjectKt$main$t$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestObjectKt$main$t$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestObjectKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestObjectKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass3.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,11 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test2IfElse.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test2IfElse.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test2IfElse.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+            <state relative-caret-position="402">
+              <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2Class.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test2Class.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -113,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/Test2VarVal.java" />
         <option value="$PROJECT_DIR$/src/Test2VarVal.kt" />
         <option value="$PROJECT_DIR$/src/Test2IfElse.kt" />
+        <option value="$PROJECT_DIR$/src/Test2Class.kt" />
       </list>
     </option>
   </component>
@@ -163,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Test2IfElseKt">
+  <component name="RunManager" selected="Kotlin.Test2ClassKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -182,6 +182,16 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="Test2ClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Adventure_Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Test2ClassKt" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="Test2IfElseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Adventure_Kotlin" />
@@ -223,16 +233,6 @@
       <option name="MAIN_CLASS_NAME" value="TestObjectKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="TestPropKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Adventure_Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TestPropKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -256,19 +256,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.TestPropKt" />
       <item itemvalue="Kotlin.TestDataKt" />
       <item itemvalue="Kotlin.TestObjectKt" />
       <item itemvalue="Kotlin.Test2VarValKt" />
       <item itemvalue="Kotlin.Test2IfElseKt" />
+      <item itemvalue="Kotlin.Test2ClassKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Test2ClassKt" />
         <item itemvalue="Kotlin.Test2IfElseKt" />
         <item itemvalue="Kotlin.Test2VarValKt" />
         <item itemvalue="Kotlin.TestObjectKt" />
         <item itemvalue="Kotlin.TestDataKt" />
-        <item itemvalue="Kotlin.TestPropKt" />
       </list>
     </recent_temporary>
   </component>
@@ -499,8 +499,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test2IfElse.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+        <state relative-caret-position="402">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test2Class.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
