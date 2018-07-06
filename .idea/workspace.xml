@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cf3cffe-cc4a-4440-b194-38140a353aac" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Test2IfElse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test2VarVal.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/CounterManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/CounterManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/META-INF/Adventure_Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/META-INF/Adventure_Kotlin.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/MyClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/MyRunnable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestObjectKt$main$t$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestObjectKt$main$t$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestObjectKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/TestObjectKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestObject.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure_Kotlin/YourClass3.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,16 +56,34 @@
         <entry file="file://$PROJECT_DIR$/src/TestData.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestObject.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestObject.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestObject.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="510">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2VarVal.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test2VarVal.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2IfElse.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test2IfElse.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -86,13 +110,16 @@
         <option value="$PROJECT_DIR$/src/TestProp.kt" />
         <option value="$PROJECT_DIR$/src/TestData.kt" />
         <option value="$PROJECT_DIR$/src/TestObject.kt" />
+        <option value="$PROJECT_DIR$/src/Test2VarVal.java" />
+        <option value="$PROJECT_DIR$/src/Test2VarVal.kt" />
+        <option value="$PROJECT_DIR$/src/Test2IfElse.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1680" />
     <option name="y" value="23" />
-    <option name="width" value="1420" />
+    <option name="width" value="1235" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -104,8 +131,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.TestObjectKt">
+  <component name="RunManager" selected="Kotlin.Test2IfElseKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -156,14 +183,24 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Test2IfElseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Adventure_Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TestClassKt" />
+      <option name="MAIN_CLASS_NAME" value="Test2IfElseKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="Test2VarValKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Adventure_Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Test2VarValKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="TestDataKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -174,16 +211,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="TestDataKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Adventure_Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TestKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="TestObjectKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -229,19 +256,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.TestKt" />
-      <item itemvalue="Kotlin.TestClassKt" />
       <item itemvalue="Kotlin.TestPropKt" />
       <item itemvalue="Kotlin.TestDataKt" />
       <item itemvalue="Kotlin.TestObjectKt" />
+      <item itemvalue="Kotlin.Test2VarValKt" />
+      <item itemvalue="Kotlin.Test2IfElseKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Test2IfElseKt" />
+        <item itemvalue="Kotlin.Test2VarValKt" />
         <item itemvalue="Kotlin.TestObjectKt" />
         <item itemvalue="Kotlin.TestDataKt" />
         <item itemvalue="Kotlin.TestPropKt" />
-        <item itemvalue="Kotlin.TestClassKt" />
-        <item itemvalue="Kotlin.TestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +286,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="23" width="1420" height="1057" extended-state="0" />
+    <frame x="1680" y="23" width="1235" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -269,17 +297,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32960325" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960325" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16971831" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1951417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39979655" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979655" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,17 +323,94 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/TestObject.kt</url>
-          <line>70</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Test.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="2" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestProp.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestData.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestObject.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test2VarVal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test2IfElse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="2" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestProp.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestData.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestObject.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -366,7 +471,7 @@
     <entry file="file://$PROJECT_DIR$/src/TestData.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -377,10 +482,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test2VarVal.java" />
     <entry file="file://$PROJECT_DIR$/src/TestObject.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test2VarVal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test2IfElse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
         </state>
       </provider>
     </entry>
